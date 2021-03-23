@@ -1,0 +1,22 @@
+{	"ActionDisplayName": "Submit",
+	"Attributes": [
+		{	"Name": "Name",
+			"Size": "10",
+			"Type": "TextBox"
+		},
+		{	"Name": "Gender",
+			"Options": [
+				{	"DisplayValue": "Male",
+					"Value": "male"
+				},
+				{	"DisplayValue": "Female",
+					"Value": "female"
+				},
+				{	"DisplayValue": "Other",
+					"Value": "other"
+				}
+			],
+			"Type": "RadioButton" 
+		}
+	]
+}
